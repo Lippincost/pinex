@@ -1,1 +1,2 @@
-# AI Image Detect
+# AI Image Detector
+AI-image-detector
