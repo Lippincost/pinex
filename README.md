@@ -5,4 +5,5 @@ AI-image-detector
 ```bash
 $ yarn install
 ```
-## Running 
+## Running the app
+```b
