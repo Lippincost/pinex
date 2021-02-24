@@ -8,4 +8,5 @@ $ yarn install
 ## Running the app
 ```bash
 
-# Buildin
+# Building
+$ yarn bu
