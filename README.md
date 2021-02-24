@@ -6,4 +6,6 @@ AI-image-detector
 $ yarn install
 ```
 ## Running the app
-```b
+```bash
+
+# Buildin
