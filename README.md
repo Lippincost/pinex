@@ -12,4 +12,6 @@ $ yarn install
 $ yarn build
 
 # Prod
-$ yar
+$ yarn start
+
+# wa
