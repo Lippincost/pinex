@@ -9,4 +9,7 @@ $ yarn install
 ```bash
 
 # Building
-$ yarn bu
+$ yarn build
+
+# Prod
+$ yar
