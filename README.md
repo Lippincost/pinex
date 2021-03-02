@@ -14,4 +14,4 @@ $ yarn build
 # Prod
 $ yarn start
 
-# wa
+# watch mode (no need for bu
