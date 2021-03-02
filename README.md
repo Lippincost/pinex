@@ -14,4 +14,5 @@ $ yarn build
 # Prod
 $ yarn start
 
-# watch mode (no need for building in 
+# watch mode (no need for building in watch mode)
+$ yarn d
