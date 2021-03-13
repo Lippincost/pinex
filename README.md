@@ -15,4 +15,5 @@ $ yarn build
 $ yarn start
 
 # watch mode (no need for building in watch mode)
-$ yarn d
+$ yarn dev
+```
