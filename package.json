@@ -3,4 +3,5 @@
   "version": "1.0.0",
   "description": "Typescript Template",
   "main": "index.ts",
-  "repository": "https://github.com/fawzibazari/Typescript.gi
+  "repository": "https://github.com/fawzibazari/Typescript.git",
+  "author": "f
