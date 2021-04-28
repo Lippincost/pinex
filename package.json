@@ -7,4 +7,4 @@
   "author": "fawzibazari <fawzi.bazari2@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow-models/knn-classifi
+    "@tensorflow-models/knn-classifier": "^1.
