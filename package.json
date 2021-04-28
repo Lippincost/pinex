@@ -6,4 +6,5 @@
   "repository": "https://github.com/fawzibazari/Typescript.git",
   "author": "fawzibazari <fawzi.bazari2@gmail.com>",
   "license": "MIT",
-  "dependencies":
+  "dependencies": {
+    "@t
