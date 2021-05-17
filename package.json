@@ -8,4 +8,5 @@
   "license": "MIT",
   "dependencies": {
     "@tensorflow-models/knn-classifier": "^1.2.4",
-    "@tensorflow-models/mobilenet": "^2.1
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensor
