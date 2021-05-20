@@ -9,4 +9,4 @@
   "dependencies": {
     "@tensorflow-models/knn-classifier": "^1.2.4",
     "@tensorflow-models/mobilenet": "^2.1.0",
-    "@tensor
+    "@tensorflow/tfjs": "^3.17.0"
