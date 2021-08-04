@@ -24,4 +24,4 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel serve index.html",
-    "build": "parcel b
+    "build": "parcel build in
