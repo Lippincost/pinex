@@ -27,4 +27,5 @@
     "build": "parcel build index.html",
     "watch": "parcel watch index.html"
   },
-  "devDep
+  "devDependencies": {
+ 
