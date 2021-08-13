@@ -28,4 +28,4 @@
     "watch": "parcel watch index.html"
   },
   "devDependencies": {
-    "@types/
+    "@types/node": "^17
