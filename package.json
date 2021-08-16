@@ -28,4 +28,5 @@
     "watch": "parcel watch index.html"
   },
   "devDependencies": {
-    "@types/node": "^17
+    "@types/node": "^17.0.5",
+    "parc
