@@ -31,4 +31,4 @@
     "@types/node": "^17.0.5",
     "parcel": "^1.12.4",
     "parcel-bundler": "^1.12.5",
-    "pr
+    "prettier": "^2.5
