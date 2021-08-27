@@ -1,1 +1,1 @@
-import * a
+import * as tf from '@tens
