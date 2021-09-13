@@ -3,4 +3,5 @@ import * as mobilenet from '@tensorflow-models/mobilenet';
 import * as knnClassifier from '@tensorflow-models/knn-classifier';
 const webcamElement = document.getElementById('webcam');
 
-le
+let net: any;
+
