@@ -7,4 +7,4 @@ let net: any;
 
 // Create the classifier.
 // Knn = key nearest neighbors
-co
+const classifi
