@@ -9,4 +9,5 @@ let net: any;
 // Knn = key nearest neighbors
 const classifier = knnClassifier.create();
 
-async function m
+async function main() {
+  net = await
