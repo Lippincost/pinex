@@ -10,4 +10,6 @@ let net: any;
 const classifier = knnClassifier.create();
 
 async function main() {
-  net = await
+  net = await mobilenet.load();
+
+  
