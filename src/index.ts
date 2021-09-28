@@ -12,4 +12,6 @@ const classifier = knnClassifier.create();
 async function main() {
   net = await mobilenet.load();
 
-  console.log('here'
+  console.log('here');
+
+  const
