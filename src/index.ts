@@ -14,4 +14,4 @@ async function main() {
 
   console.log('here');
 
-  const webcam = await 
+  const webcam = await tf.data.we
