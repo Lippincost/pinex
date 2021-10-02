@@ -14,4 +14,4 @@ async function main() {
 
   console.log('here');
 
-  const webcam = await tf.data.webcam(webcam
+  const webcam = await tf.data.webcam(webcamElement as HTMLV
