@@ -17,4 +17,4 @@ async function main() {
   const webcam = await tf.data.webcam(webcamElement as HTMLVideoElement);
 
   const addImage = async (imageId: number) => {
-    const img = awai
+    const img = await webcam.capture();
