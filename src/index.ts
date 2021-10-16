@@ -19,4 +19,5 @@ async function main() {
   const addImage = async (imageId: number) => {
     const img = await webcam.capture();
     const activation = net.infer(img, true);
-    classifier.addExample(activation, imageId)
+    classifier.addExample(activation, imageId);
+    img.dispose();
