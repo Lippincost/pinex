@@ -21,3 +21,7 @@ async function main() {
     const activation = net.infer(img, true);
     classifier.addExample(activation, imageId);
     img.dispose();
+  };
+
+  document
+  
