@@ -25,4 +25,4 @@ async function main() {
 
   document
     .getElementById('fawzi')
-    ?.addEventListener('c
+    ?.addEventListener('click', () =
