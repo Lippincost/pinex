@@ -25,4 +25,5 @@ async function main() {
 
   document
     .getElementById('fawzi')
-    ?.addEventListener('click', () => addImag
+    ?.addEventListener('click', () => addImage(0));
+  docu
