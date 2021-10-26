@@ -26,4 +26,5 @@ async function main() {
   document
     .getElementById('fawzi')
     ?.addEventListener('click', () => addImage(0));
-  docu
+  document
+    .getEleme
