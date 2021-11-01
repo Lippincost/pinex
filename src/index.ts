@@ -30,4 +30,4 @@ async function main() {
     .getElementById('kharty')
     ?.addEventListener('click', () => addImage(1));
   document
- 
+    .getElementBy
