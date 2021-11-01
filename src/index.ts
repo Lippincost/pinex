@@ -31,3 +31,4 @@ async function main() {
     ?.addEventListener('click', () => addImage(1));
   document
     .getElementById('kharty et fawzi')
+    ?.addEv
