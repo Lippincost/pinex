@@ -29,3 +29,5 @@ async function main() {
   document
     .getElementById('kharty')
     ?.addEventListener('click', () => addImage(1));
+  document
+ 
