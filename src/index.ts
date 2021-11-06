@@ -34,4 +34,4 @@ async function main() {
     ?.addEventListener('click', () => addImage(2));
 
   while (true) {
-    
+    if (classifier.get
