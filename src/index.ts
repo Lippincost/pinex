@@ -34,4 +34,5 @@ async function main() {
     ?.addEventListener('click', () => addImage(2));
 
   while (true) {
-    if (classifier.getNumClasses() > 0)
+    if (classifier.getNumClasses() > 0) {
+      const i
