@@ -35,4 +35,4 @@ async function main() {
 
   while (true) {
     if (classifier.getNumClasses() > 0) {
-      const img = await web
+      const img = await webcam.capture()
