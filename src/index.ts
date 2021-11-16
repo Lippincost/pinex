@@ -36,4 +36,5 @@ async function main() {
   while (true) {
     if (classifier.getNumClasses() > 0) {
       const img = await webcam.capture();
-      // 'conv_preds' is the logits activation of Mobile
+      // 'conv_preds' is the logits activation of MobileNet.
+    
