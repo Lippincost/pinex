@@ -36,4 +36,4 @@ async function main() {
   while (true) {
     if (classifier.getNumClasses() > 0) {
       const img = await webcam.capture();
-      // 'conv_preds' is the log
+      // 'conv_preds' is the logits activ
