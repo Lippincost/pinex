@@ -38,4 +38,4 @@ async function main() {
       const img = await webcam.capture();
       // 'conv_preds' is the logits activation of MobileNet.
       // damn it took me some time to find out what 'conv_preds' meant
-      const activation = net.infer(im
+      const activation = net.infer(img, 'conv_preds');
