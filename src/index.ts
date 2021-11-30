@@ -40,4 +40,4 @@ async function main() {
       // damn it took me some time to find out what 'conv_preds' meant
       const activation = net.infer(img, 'conv_preds');
       const result = await classifier.predictClass(activation);
-      const Images
+      const Images: any = ['Fawzi'
