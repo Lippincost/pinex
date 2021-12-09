@@ -41,4 +41,4 @@ async function main() {
       const activation = net.infer(img, 'conv_preds');
       const result = await classifier.predictClass(activation);
       const Images: any = ['Fawzi', 'Kharty', 'Kharty et Fawzi'];
-      document.getElementById('di
+      document.getElementById('div')!.innerTe
