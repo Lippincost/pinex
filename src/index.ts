@@ -42,4 +42,4 @@ async function main() {
       const result = await classifier.predictClass(activation);
       const Images: any = ['Fawzi', 'Kharty', 'Kharty et Fawzi'];
       document.getElementById('div')!.innerText = `prediction: ${
-        Im
+        Images[result.lab
