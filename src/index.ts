@@ -44,4 +44,4 @@ async function main() {
       document.getElementById('div')!.innerText = `prediction: ${
         Images[result.label]
       }\n
-      prob
+      probabilty: ${result
