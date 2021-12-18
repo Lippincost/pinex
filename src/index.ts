@@ -45,4 +45,6 @@ async function main() {
         Images[result.label]
       }\n
       probabilty: ${result.confidences[result.label]}
-     
+      `;
+
+      img.dispos
