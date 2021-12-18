@@ -49,4 +49,8 @@ async function main() {
 
       img.dispose();
     }
-    await tf.nextFra
+    await tf.nextFrame();
+  }
+}
+
+m
