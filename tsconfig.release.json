@@ -3,3 +3,10 @@
     "extends": "./tsconfig.json",
     "compilerOptions": {
       "rootDir": ".",
+      "outDir": "bin",
+      "removeComments": true
+    },
+    "include": [
+      "src/**/*"
+    ]
+  }
