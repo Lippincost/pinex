@@ -53,4 +53,4 @@ async function main() {
   }
 }
 
-m
+main();
