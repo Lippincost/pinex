@@ -49,3 +49,4 @@ async function main() {
 
       img.dispose();
     }
+    await tf.nextFra
