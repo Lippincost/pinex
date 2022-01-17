@@ -585,3 +585,15 @@
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-dotall-regex/-/plugin-transform-dotall-regex-7.16.7.tgz#6b2d67686fab15fb6a7fd4bd895d5982cfc81241"
   integrity sha512-Lyttaao2SjZF6Pf4vk1dVKv8YypMpomAbygW+mU5cYP3S5cWTfCJjG8xV6CFdzGFlfWK81IjL9viiTvpb6G7gQ==
   dependencies:
+    "@babel/helper-create-regexp-features-plugin" "^7.16.7"
+    "@babel/helper-plugin-utils" "^7.16.7"
+
+"@babel/plugin-transform-duplicate-keys@^7.16.7":
+  version "7.16.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-duplicate-keys/-/plugin-transform-duplicate-keys-7.16.7.tgz#2207e9ca8f82a0d36a5a67b6536e7ef8b08823c9"
+  integrity sha512-03DvpbRfvWIXyK0/6QiR1KMTWeT6OcQ7tbhjrXyFS02kjuX/mu5Bvnh5SDSWHxyawit2g5aWhKwI86EE7GUnTw==
+  dependencies:
+    "@babel/helper-plugin-utils" "^7.16.7"
+
+"@babel/plugin-transform-exponentiation-operator@^7.16.7":
+  version "7.16.7"
