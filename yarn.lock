@@ -1188,3 +1188,9 @@
   resolved "https://registry.yarnpkg.com/@parcel/css/-/css-1.8.3.tgz#9f06319011a957568e98ede0cf657cb38ea24247"
   integrity sha512-6qUN4iicr8f9Q6UUZttwwHMzrb65BRX46PHWq0icA4KEmvmfR9cSYlp/hJH8F4stg3Wncx12Bnw+EuPf5OAEPQ==
   dependencies:
+    detect-libc "^1.0.3"
+  optionalDependencies:
+    "@parcel/css-darwin-arm64" "1.8.3"
+    "@parcel/css-darwin-x64" "1.8.3"
+    "@parcel/css-linux-arm-gnueabihf" "1.8.3"
+    "@parcel/css-linux-arm64-gnu" "1.8.3"
