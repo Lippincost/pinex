@@ -1167,3 +1167,24 @@
   version "1.8.3"
   resolved "https://registry.yarnpkg.com/@parcel/css-linux-arm64-musl/-/css-linux-arm64-musl-1.8.3.tgz#35c5f1128469458d71b675b42cbd2f06ddfe5797"
   integrity sha512-ct1QRK5gAP8sO22NZ7RULZQB7dbHpou+WMa4z0LJb+Fho13a1JNw931vNHbeI5cRr1fCTDq76pz/+Valgetzcw==
+
+"@parcel/css-linux-x64-gnu@1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@parcel/css-linux-x64-gnu/-/css-linux-x64-gnu-1.8.3.tgz#fa87fd53aa0481e028f6da0ecad94794f58207aa"
+  integrity sha512-pg/mahoogzjbaZcW76rrTZ64tEu8Wok4Gm0sW/dXHJEJD2QVJ6GxLP4UVNBuhaV0GrNFHggp9pcdhTtLGkKl/g==
+
+"@parcel/css-linux-x64-musl@1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@parcel/css-linux-x64-musl/-/css-linux-x64-musl-1.8.3.tgz#b0df1a3f2edbcf77c056ad03fc78f3cf9449caf1"
+  integrity sha512-4Iwawy28HQ2yAgbuyR60bgO+8oE+OiWpE02eNjbgqnDpTsfmXFMt4l5OYgZwJJ7DlaZqm+/yO8RPMd+EzwtNzg==
+
+"@parcel/css-win32-x64-msvc@1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@parcel/css-win32-x64-msvc/-/css-win32-x64-msvc-1.8.3.tgz#8719e890a5c0969ca26968b15ffa8e2a20dbe10a"
+  integrity sha512-vnHUdzIVjqONa5ALFzMJ3ZHt6NiaYTHW/lqzP+AR4l+bq+UTXD2Q75/RgirY5NYwdfy1VPy/jI82jAtLOCymkw==
+
+"@parcel/css@^1.8.1":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@parcel/css/-/css-1.8.3.tgz#9f06319011a957568e98ede0cf657cb38ea24247"
+  integrity sha512-6qUN4iicr8f9Q6UUZttwwHMzrb65BRX46PHWq0icA4KEmvmfR9cSYlp/hJH8F4stg3Wncx12Bnw+EuPf5OAEPQ==
+  dependencies:
