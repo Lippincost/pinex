@@ -1194,3 +1194,15 @@
     "@parcel/css-darwin-x64" "1.8.3"
     "@parcel/css-linux-arm-gnueabihf" "1.8.3"
     "@parcel/css-linux-arm64-gnu" "1.8.3"
+    "@parcel/css-linux-arm64-musl" "1.8.3"
+    "@parcel/css-linux-x64-gnu" "1.8.3"
+    "@parcel/css-linux-x64-musl" "1.8.3"
+    "@parcel/css-win32-x64-msvc" "1.8.3"
+
+"@parcel/diagnostic@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/diagnostic/-/diagnostic-2.5.0.tgz#8c6891924e04b625d50176aae141d24dc8dddf87"
+  integrity sha512-KiMGGRpEV7wl5gjcxBKcgX84a+cG+IEn94gwy5LK3lENR09nuKShqqgKGAmj/17CobJgw1QNP94/H4Md+oxIWg==
+  dependencies:
+    "@mischnic/json-sourcemap" "^0.1.0"
+    nullthrows "^1.1.1"
