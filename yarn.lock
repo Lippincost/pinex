@@ -1287,3 +1287,19 @@
   integrity sha512-ahGQqHJzsWE5Qux8zXMAU+lyNBOl+ZpcOFzRGE2DWOsmAlytsHl7DBVCQvzUyNBFg1/HmIj+7D4efv2kjR7rTg==
   dependencies:
     "@parcel/diagnostic" "2.5.0"
+    "@parcel/plugin" "2.5.0"
+    nullthrows "^1.1.1"
+
+"@parcel/node-resolver-core@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/node-resolver-core/-/node-resolver-core-2.5.0.tgz#4aaf5c8eb57b56d1257ca02cae5b88be790be6bd"
+  integrity sha512-XQvpguiIwQcu75cscLDFOVhjsjuPzXbuMaaZ7XxxUEl0PscIgu/GfKYxTfTruN3cRl+CaQH6qBAMfjLaFng6lQ==
+  dependencies:
+    "@parcel/diagnostic" "2.5.0"
+    "@parcel/utils" "2.5.0"
+    nullthrows "^1.1.1"
+
+"@parcel/optimizer-css@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/optimizer-css/-/optimizer-css-2.5.0.tgz#4f64bd0aa29727802b29eaea31aedfbb15ead5e9"
+  integrity sha512-J00bLF+4SsnKc+YbYrNuBr44/zz3cg++CoXteXhH27PxP1rScGQx36Rui8WORgil5mlX2VYN79DuqJC7V3Ynbg==
