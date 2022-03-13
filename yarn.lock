@@ -1343,3 +1343,15 @@
     "@parcel/plugin" "2.5.0"
     "@parcel/utils" "2.5.0"
     svgo "^2.4.0"
+
+"@parcel/optimizer-terser@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/optimizer-terser/-/optimizer-terser-2.5.0.tgz#16b3320b34135edac69751ab2f3537a346133086"
+  integrity sha512-PZ3UHBGfjE49/Jloopsd38Hxg4qzsrdepWP53mCuVP7Aw605Y4QtYuB1ho3VV0oXfKQVq+uI7lVIBsuW4K6vqA==
+  dependencies:
+    "@parcel/diagnostic" "2.5.0"
+    "@parcel/plugin" "2.5.0"
+    "@parcel/source-map" "^2.0.0"
+    "@parcel/utils" "2.5.0"
+    nullthrows "^1.1.1"
+    terser "^5.2.0"
