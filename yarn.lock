@@ -1469,3 +1469,15 @@
   dependencies:
     "@parcel/plugin" "2.5.0"
     "@parcel/utils" "2.5.0"
+    nullthrows "^1.1.1"
+
+"@parcel/runtime-react-refresh@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/runtime-react-refresh/-/runtime-react-refresh-2.5.0.tgz#fc74342d77848ea61f364246df70673e83b5430f"
+  integrity sha512-+8RuDKFdFYIQTrXG4MRhG9XqkkYEHn0zxKyOJ/IkDDfSEhY0na+EyhrneFUwIvDX63gLPkxceXAg0gwBqXPK/Q==
+  dependencies:
+    "@parcel/plugin" "2.5.0"
+    "@parcel/utils" "2.5.0"
+    react-refresh "^0.9.0"
+
+"@parcel/runtime-service-worker@2.5.0":
