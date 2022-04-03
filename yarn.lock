@@ -1562,3 +1562,14 @@
     nullthrows "^1.1.1"
     regenerator-runtime "^0.13.7"
     semver "^5.7.1"
+
+"@parcel/transformer-json@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-json/-/transformer-json-2.5.0.tgz#9406b8f0cdd58e65f20fd381a75ece64d346858d"
+  integrity sha512-661sByA7TkR6Lmxt+hqV4h2SAt+7lgc58DzmUYArpEl1fQnMuQuaB0kQeHzi6fDD2+2G6o7EC+DuwBZKa479TA==
+  dependencies:
+    "@parcel/plugin" "2.5.0"
+    json5 "^2.2.0"
+
+"@parcel/transformer-postcss@2.5.0":
+  version "2.5.0"
