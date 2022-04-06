@@ -1588,3 +1588,16 @@
 "@parcel/transformer-posthtml@2.5.0":
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/@parcel/transformer-posthtml/-/transformer-posthtml-2.5.0.tgz#d4c6558b0443ce94ec5ca823c265ebdf05f3af08"
+  integrity sha512-AZxg1XD8OXOS4bEGEmBBR+X9T9qoFdVsbVUg498zzejYSka1ZQHF7TgLI/+pUnE+ZVYNIp7/G0xXqsRVKMKmdQ==
+  dependencies:
+    "@parcel/plugin" "2.5.0"
+    "@parcel/utils" "2.5.0"
+    nullthrows "^1.1.1"
+    posthtml "^0.16.5"
+    posthtml-parser "^0.10.1"
+    posthtml-render "^3.0.0"
+    semver "^5.7.1"
+
+"@parcel/transformer-raw@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-raw/-/transformer-raw-2.5.0.tgz#5561945e2fd220ac38c0a21aad72175377d048bc"
