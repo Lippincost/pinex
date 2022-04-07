@@ -1616,3 +1616,17 @@
 
 "@parcel/transformer-svg@2.5.0":
   version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-svg/-/transformer-svg-2.5.0.tgz#78fd321e395923f720a886cb5b5c4fae7101c6b3"
+  integrity sha512-zCGJcrCpICFe0Q/dgjQZfW7sYFkbJEC7NGT4zEJnMo8Cm/kq8Qh6+2ApX6c+vv5Q0WZn5Ic+N0OvxIMkvgdC/w==
+  dependencies:
+    "@parcel/diagnostic" "2.5.0"
+    "@parcel/hash" "2.5.0"
+    "@parcel/plugin" "2.5.0"
+    nullthrows "^1.1.1"
+    posthtml "^0.16.5"
+    posthtml-parser "^0.10.1"
+    posthtml-render "^3.0.0"
+    semver "^5.7.1"
+
+"@parcel/types@2.5.0":
+  version "2.5.0"
