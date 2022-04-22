@@ -1755,3 +1755,14 @@
   version "3.17.0"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-data/-/tfjs-data-3.17.0.tgz#c6fc456eea3d6c378dee5700c288fab8781a96ef"
   integrity sha512-RgsdrGzWaQtxlRnk7Yiz8ebxbFfgNLITaFri6WxSPNZFI5ajLtw/daxp04ij9l1MIUJeJYgaKeMVXFvJwy8TAQ==
+  dependencies:
+    "@types/node-fetch" "^2.1.2"
+    node-fetch "~2.6.1"
+
+"@tensorflow/tfjs-layers@3.17.0":
+  version "3.17.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-layers/-/tfjs-layers-3.17.0.tgz#25adc5cccdde03e8bd0aee1f9d3f0caaff1fda9e"
+  integrity sha512-SXx6k1va/RfiCmwaglbaN/eQzZ33xhCUZgk5zpRJkxk3Gx9xXRHb05HszM0BH+cokwmueWcJQpRjcnvjdKxtUg==
+
+"@tensorflow/tfjs@^3.17.0":
+  version "3.17.0"
