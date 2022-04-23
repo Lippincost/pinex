@@ -1766,3 +1766,14 @@
 
 "@tensorflow/tfjs@^3.17.0":
   version "3.17.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs/-/tfjs-3.17.0.tgz#1fba34f269987823e014b8fef22bb15f1d1c9a05"
+  integrity sha512-mLN0z5fOdjzikQbYeZQALQYjSFt7OYTrTl+Ky8nkMv0bvb69szFVS/655ir4zkTYL4F/YmU140w8Ml+DVHtNkQ==
+  dependencies:
+    "@tensorflow/tfjs-backend-cpu" "3.17.0"
+    "@tensorflow/tfjs-backend-webgl" "3.17.0"
+    "@tensorflow/tfjs-converter" "3.17.0"
+    "@tensorflow/tfjs-core" "3.17.0"
+    "@tensorflow/tfjs-data" "3.17.0"
+    "@tensorflow/tfjs-layers" "3.17.0"
+    argparse "^1.0.10"
+    chalk "^4.1.0"
