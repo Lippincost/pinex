@@ -1923,3 +1923,17 @@
   dependencies:
     "@typescript-eslint/types" "5.11.0"
     eslint-visitor-keys "^3.0.0"
+
+"@webgpu/types@^0.1.16":
+  version "0.1.16"
+  resolved "https://registry.yarnpkg.com/@webgpu/types/-/types-0.1.16.tgz#1f05497b95b7c013facf7035c8e21784645f5cc4"
+  integrity sha512-9E61voMP4+Rze02jlTXud++Htpjyyk8vw5Hyw9FGRrmhHQg2GqbuOfwf5Klrb8vTxc2XWI3EfO7RUHMpxTj26A==
+
+abab@^2.0.0:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.6.tgz#41b80f2c871d19686216b82309231cfd3cb3d291"
+  integrity sha512-j2afSsaIENvHZN2B8GOpF566vZ5WVk5opAiMTvWgaQT8DkbOqsTfvNAvHoRGU2zzP8cPoqys+xHTRDWW8L+/BA==
+
+abortcontroller-polyfill@^1.1.9:
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/abortcontroller-polyfill/-/abortcontroller-polyfill-1.7.3.tgz#1b5b487bd6436b5b764fd52a612509702c3144b5"
